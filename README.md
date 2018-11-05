@@ -1,1 +1,4 @@
-# Highway_violation_detection
+## Highway_violation_detection
+## 高速公路违章检测
+
+这是研究生阶段的毕业课题，运用图像处理计算机视觉技术结合现今火热的深度学习，完成基于无人机的高速公路违章检测，对算法进行研究与实现。
