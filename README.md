@@ -25,3 +25,7 @@ UAV可装载各类传感器和摄像机，通过航拍的方式可采集高速�
 ![图3](https://img-blog.csdnimg.cn/20190331215229313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3MTIwMTI=,size_16,color_FFFFFF,t_70)
 
 ![无违章](https://img-blog.csdnimg.cn/20190331215134288.png)
+
+TODO: 车辆违章变道，违法占用应急车道
+
+
