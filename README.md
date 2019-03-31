@@ -18,7 +18,7 @@ UAV可装载各类传感器和摄像机，通过航拍的方式可采集高速�
 ![无违章](https://img-blog.csdnimg.cn/20190331215146313.png)
 
 
-![图2](https://img-blog.csdnimg.cn/20190331215229313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3MTIwMTI=,size_16,color_FFFFFF,t_70)
+![图2](https://img-blog.csdnimg.cn/20190331215217233.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3MTIwMTI=,size_16,color_FFFFFF,t_70)
 
 ![违章轧线](https://img-blog.csdnimg.cn/20190331215157407.png)
 
