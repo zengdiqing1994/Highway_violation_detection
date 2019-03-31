@@ -12,4 +12,16 @@ UAV可装载各类传感器和摄像机，通过航拍的方式可采集高速�
 
 本项目目前已实现车辆违章轧实线的功能，具体代码请移步"push_lane_detection"文件夹
 
+![图1](https://img-blog.csdnimg.cn/2019033121524313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3MTIwMTI=,size_16,color_FFFFFF,t_70)
 
+
+![无违章](https://img-blog.csdnimg.cn/20190331215146313.png)
+
+
+![图2](https://img-blog.csdnimg.cn/20190331215229313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3MTIwMTI=,size_16,color_FFFFFF,t_70)
+
+![违章轧线](https://img-blog.csdnimg.cn/20190331215157407.png)
+
+![图3](https://img-blog.csdnimg.cn/20190331215229313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3MTIwMTI=,size_16,color_FFFFFF,t_70)
+
+![无违章](https://img-blog.csdnimg.cn/20190331215134288.png)
